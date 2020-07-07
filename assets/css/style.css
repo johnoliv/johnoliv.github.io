@@ -21,11 +21,11 @@ img {
 }
 
 a {
-	color: #EF4836;
+	color: darkred;
 }
 
 a:hover {
-	color: #C4C4C4;
+	color: red;
 }
 
 /* ---------------------------------------------- /*
